@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SwengTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="edit_message">Type in</string>
+    <string name="send_button">Display</string>
+    <string name="title_activity_show_message">ShowMessageActivity</string>
+
+</resources>
